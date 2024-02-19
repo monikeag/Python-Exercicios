@@ -9,7 +9,7 @@
 print('='*25)
 print('→ Coloque seu peso abaixo:')
 print('='*25)
-\n
+
 maior = 0
 menor = 0
 for p in range (1, 6):
